@@ -13,7 +13,6 @@ body{
     gap: 30px;
     justify-content: center;
     align-items: center;
-    height: 80vh;
 }
 .blocks{
     height: 700px;
